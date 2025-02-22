@@ -1,0 +1,57 @@
+{
+  "hero-section": {
+    "title": "join a family of faith and love",
+    "sub-title": "Let us not give up meeting together, as some are in the habit of doing, but encourage one another."
+  },
+
+  "about-section": {
+    "title": "church highlights",
+    "sub-title": "about our church",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut dapibus nunc.",
+    "about": [
+      {
+        "title": "Lorem psum",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisqut dapibus nunc.",
+        "image": "/hero.jpg"
+      },
+      {
+        "title": "Lorem ipsm",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Qut dapibus nunc",
+        "image": "/hero.jpg"
+      },
+      {
+        "title": "Lorem ipum",
+        "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quis",
+        "image": "/hero.jpg"
+      }
+    ]
+  },
+  "quote-section": {
+    "title": "god's word today",
+    "sub-title": "quotes"
+  },
+  "our-values-section": {
+    "title": "adipiscing elit",
+    "sub-title": "our values",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ut dapibus nunc.",
+    "values": [
+      {
+        "title": "What is your return policy?",
+        "content": "You can return items within 30 days of purchase. Terms and conditions apply."
+      },
+      {
+        "title": "Do you offer international shipping?",
+        "content": "Yes, we ship to most countries worldwide. Additional fees may apply."
+      },
+      {
+        "title": "How can I track my order?",
+        "content": "You can track your order through the tracking link sent to your email after purchase."
+      }
+    ]
+  },
+  "location-section": {
+    "title": "The Rotary Centre",
+    "sub-title": "fellowship location",
+    "address": "123 street address, calgary, alberta, Postal Code"
+  }
+}

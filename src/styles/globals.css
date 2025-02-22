@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/* @theme {
+  --font-asap: "Asap Condensed", sans-serif;
+} */
+
+@layer components {
+  .main-width {
+    @apply mx-auto w-full max-w-7xl px-8 md:px-20 xl:max-w-[90rem];
+  }
+  .brand-text-color {
+    @apply text-[#cea957];
+  }
+  .brand-bg-color {
+    @apply bg-[#cea957];
+  }
+  .brand-border-color {
+    @apply border-[#cea957];
+  }
+  .brand-animate {
+    @apply transition-all duration-300 ease-in-out;
+  }
+}
+
+@layer utility {
+  .hover-brand-text-color {
+    @apply hover:text-[#cea957];
+  }
+  .hover-brand-bg-color {
+    @apply hover:bg-[#cea957];
+  }
+  .hover-brand-border-color {
+    @apply hover:border-[#cea957];
+  }
+}
