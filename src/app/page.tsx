@@ -6,7 +6,6 @@ import {
   BibleQuote,
   PrimaryBtn,
   CardWrapper,
-  InfiniteCarousel,
   BusinessLocationMap,
 } from "@/components";
 import HomePageContent from "@/data/homepage.json";
